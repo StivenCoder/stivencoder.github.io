@@ -99,6 +99,8 @@ document.getElementById('year').textContent = new Date().getFullYear();
     if (mq.addEventListener) mq.addEventListener('change', onSystemChange);
     else if (mq.addListener) mq.addListener(onSystemChange);
 
+    apply(root.getAttribute('data-theme') === 'dark' ? 'dark' : 'light');
+
     btn.addEventListener('click', function () {
       if (busy) return;
       var next = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
