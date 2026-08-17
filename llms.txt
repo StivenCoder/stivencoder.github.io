@@ -4,22 +4,38 @@
 
 ## Servicios
 
-- [Desarrollo WordPress a medida](https://stivencoder.github.io/#servicios): sitios construidos según tu negocio, sin plantillas genéricas.
-- [WooCommerce y tiendas online](https://stivencoder.github.io/#servicios): configuración, integración de pagos y optimización para vender.
-- [Actualización y mantenimiento](https://stivencoder.github.io/#servicios): desde $125/mes, actualizaciones controladas y respaldos.
-- [Soporte técnico](https://stivencoder.github.io/#servicios): desde $245, recuperación de sitios caídos, migraciones y asistencia.
+- [Desarrollo WordPress a medida](https://stivencoder.github.io/#servicios): sitios construidos según lo que tu negocio necesita, con estructura limpia y fácil de mantener.
+- [WooCommerce y tiendas online](https://stivencoder.github.io/#servicios): configuración, integración de pagos y productos, y optimización para vender más.
+- [Actualización y mantenimiento](https://stivencoder.github.io/#servicios): sitio al día con actualizaciones controladas, copias de seguridad y revisiones periódicas.
+- [Soporte técnico y restablecimiento](https://stivencoder.github.io/#servicios): diagnóstico y solución de errores, recuperación de sitios caídos.
+- [Optimización y mejoras de rendimiento](https://stivencoder.github.io/#servicios): reducción de tiempos de carga, imágenes, consultas, caché y buenas prácticas.
+- [Desarrollo de plugins a medida](https://stivencoder.github.io/#servicios): funcionalidad exacta cuando un plugin genérico no alcanza.
+
+## Proceso de trabajo
+
+1. Conversamos: respuesta en menos de 24 horas con dudas y una propuesta inicial.
+2. Propuesta clara: alcance, tiempos y precio definidos antes de empezar.
+3. Desarrollo: construcción o corrección con avances periódicos.
+4. Entrega y soporte: sitio en producción, capacitación básica, manual de uso y 30 días de garantía y soporte.
 
 ## Precios de referencia
 
-- Mantenimiento mensual: desde $125/mes
-- Proyectos nuevos: desde $1.600
-- Soporte técnico: desde $245
+- Mantenimiento mensual: desde $125/mes (actualizaciones controladas, copias de seguridad, monitoreo, soporte por WhatsApp)
+- Proyectos nuevos: desde $1.600 (sitio web, landing page o tienda online, diseño responsive, SSL, SEO básico y velocidad)
+- Soporte técnico: desde $245 (diagnóstico, recuperación de sitios caídos, correcciones menores, migraciones, asistencia rápida)
 
-Nota: los precios no incluyen el costo de dominio ni de hosting web.
+Nota: los precios no incluyen el costo de dominio ni de hosting web. Cotización exacta sin compromiso vía WhatsApp o correo.
 
 ## Proyectos destacados
 
 Sitios reales en producción: [Comviene](https://comviene.com/), [Rapipet](https://rapipet.pe/), [Vallas Venezuela](https://vallasvenezuela.com/), [Tulio Dávila](https://tuliodavila.com/), [Bikerack](https://bikerack.com/), [Entec](https://entecve.com/), [ACPower](https://acpowervzla.com/), [Monge Emprendedor](https://mongeemprendedor.com/), [Gallo Emprendedor](https://galloemprendedor.com.ni/), [La Tratería](https://www.latrateria.es/), [Serven Logística](https://servenlogistica.com/), [Pregoni Fútbol](https://www.pregonifutboltraining.com/), [Areasports](https://areasports.us/), [GDR Valle de Lecrín](https://lecrintemplecosta.com/), [Royal Pet](https://royalpet.pe/), [Nutrition Dietistas](https://nutritiondietistas.com/), [Odontoasesores](https://odontoasesores.com/), [Healthy Tatii](https://www.healthytatii.com/), [Seycoc](https://seycoc.com/), [CSC Venezuela](https://sacppro.cscvenezuela.com.ve/).
+
+## Resultados
+
+- +10 años de experiencia
+- +50 proyectos entregados
+- +20 sitios recuperados
+- +200 clientes atendidos
 
 ## Contacto
 
