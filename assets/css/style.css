@@ -265,6 +265,7 @@
     font-family:"Inter", sans-serif;
     font-size:0.78rem;
     color:var(--ink-faint);
+    text-align:end;
   }
 
   /* Services */
